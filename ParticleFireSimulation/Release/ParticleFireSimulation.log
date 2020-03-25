@@ -2,9 +2,8 @@
 c:\users\avall\documents\andrés\programación\code\particlefiresimulation\particlefiresimulation\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 c:\users\avall\documents\andrés\programación\code\particlefiresimulation\particlefiresimulation\main.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 c:\users\avall\documents\andrés\programación\code\particlefiresimulation\particlefiresimulation\main.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Screen.cpp
   Generating code
-  17 of 32 functions (53.1%) were compiled, the rest were copied from previous compilation.
+  1 of 32 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code

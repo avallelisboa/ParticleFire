@@ -60,6 +60,8 @@ int main(int argc, int *argv[]) {
 		//Check for messages/events
 		if (!screen.processEvents())break;
 	}
+	
+	//screen.close();
 
 	return 0;
 }
