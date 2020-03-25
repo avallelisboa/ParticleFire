@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\avall\documents\andrés\programación\code\particlefiresimulation\particlefiresimulation\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\avall\documents\andrés\programación\code\particlefiresimulation\particlefiresimulation\main.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\avall\documents\andrés\programación\code\particlefiresimulation\particlefiresimulation\main.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ParticleFireSimulation.vcxproj -> C:\Users\avall\Documents\Andrés\Programación\Code\ParticleFireSimulation\ParticleFireSimulation\Debug\ParticleFireSimulation.exe
